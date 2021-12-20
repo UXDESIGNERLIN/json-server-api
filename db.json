@@ -13,16 +13,16 @@
       "price": 150
     },
     {
-      "id": 7,
-      "title": "Massage",
-      "body": "ullam et saepe reiciendis voluptatem adipisci\nsit amet au",
-      "price": 100
+      "id": 11,
+      "title": "test",
+      "body": "ccc",
+      "price": "1"
     },
     {
-      "title": "test",
-      "body": "ddd",
-      "price": "12",
-      "id": 8
+      "id": 13,
+      "title": "ddad",
+      "body": "sds",
+      "price": "12"
     }
   ]
 }
