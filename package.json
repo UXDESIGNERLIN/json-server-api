@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "json:server": "node index.js"
+    "json:server": "node index.js",
+    "deploy": "gh-pages-deploy -d index.js"
   },
   "repository": {
     "type": "git",
